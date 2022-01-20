@@ -36,11 +36,11 @@ public class Score implements Serializable{
 		this.id = id;
 	}
 
-	public Double getValuue() {
+	public Double getValue() {
 		return value;
 	}
 
-	public void setValuue(Double valuue) {
+	public void setValue(Double valuue) {
 		this.value = valuue;
 	}
 	
